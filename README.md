@@ -5,7 +5,7 @@ This is a quick upload of edited example code from https://github.com/eavelardev
 
 The point of this is to provide code and documentation on setup and usage of Novation Launchpad MIDI controllers with a Raspberry Pi or similar cheap ARM board for looping audio samples in a live music context.  I will update this soon to include installation and useage instructions, as well as additional features. 
 
-##Getting Started
+###Getting Started
 
 #Install all of the prerequisites for the below repository, and clone it:
 https://github.com/eavelardev/novation-launchpad
