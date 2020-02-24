@@ -17,6 +17,6 @@ Download and copy clip_looper.py from this repo to the cloned novation_launchpad
 
 Edit clip_looper.py for compatiblity with your model of Launchpad
 
-Wait for me to update this repo/tutorial if it doesn't work..
+
 
 
