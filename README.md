@@ -1,5 +1,5 @@
 # Launchpi-Looper
-Simple Audio Sample Looping with a Raspberry Pi, and a Novation Launchpad
+Simple Audio Sample Looping with a Raspberry Pi, and a Novation Launchpad MIDI Controller
 
 This is a quick upload of edited example code from https://github.com/eavelardev/novation-launchpad which is based on FMMT666's Launchpad.py that you can find here: https://github.com/FMMT666/launchpad.py
 
