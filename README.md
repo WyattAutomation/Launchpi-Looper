@@ -27,3 +27,6 @@ from "ubuntu" to your own username.
 
 In this "samples" directory, you can create folders with names **ENDING** with numbers 1-8.  For example, you might name one folder "drumbeatloops-1".  Inside of these folders, you can add 16 bit wav files **STARTING** with numbers 1-8.  For example, you might name your audio file "3-drumbeat.wav" and so on.  The 1-8 number on the end of the folder names, corresponds to which **ROW** of pads you want the samples in that folder to be added to.  The 1-8 number on the beginning of the wav audio file's name corresponds to which **COLUMN** of pads you want that audio file to be on, per it's folder's specified row.    
 
+All samples are loaded to pads per the above explanation, which should show up with a green-lit LED on the corresponding pad.  They all are initialized as "playing" but on mute, and pushing the associated pad unmutes it and turns the pad red.  Pushing it again turns it green again and mutes it.  
+
+As it is now, make sure your samples are all in the same BPM, and are of the same length.  I will update this as soon as I can to auto-crop and timewarp samples to an editable BPM from the unused buttons on the launchpad, but as it is now just be sure to know which rows you've loaded samples in which BPM ahead of time (not too hard to do).
