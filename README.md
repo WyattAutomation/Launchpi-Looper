@@ -17,6 +17,13 @@ Download and copy clip_looper.py from this repo to the cloned novation_launchpad
 
 Edit clip_looper.py for compatiblity with your model of Launchpad
 
+Create a directory named "samples" in the novation_launchpad/examples directory
 
+Change the line that has:
+```
+rootdir = "/home/ubuntu/novation-launchpad/examples/samples/"
+```
+from "ubuntu" to your own username.
 
+In this "samples" directory, you can create folders with names **ENDING** with numbers 1-8.  For example, you might name one folder "drumbeatloops-1".  Inside of these folders, you can add 16 bit wav files **STARTING** with numbers 1-8.  For example, you might name your audio file "3-drumbeat.wav" and so on.  The 1-8 number on the end of the folder names, corresponds to which **ROW** of pads you want the samples in that folder to be added to.  The 1-8 number on the beginning of the wav audio file's name corresponds to which **COLUMN** of pads you want that audio file to be on, per it's folder's specified row.    
 
