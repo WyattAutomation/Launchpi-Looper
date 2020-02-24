@@ -7,7 +7,7 @@ The point of this is to provide code and documentation on setup and usage of Nov
 
 ## Getting Started
 
-Install all of the prerequisites for the below repository, and clone it:
+Install all of the prerequisites for this repository, and clone it:
 https://github.com/eavelardev/novation-launchpad
 
 Install pygame (if you're using Raspbian Buster, it should already be installed):
